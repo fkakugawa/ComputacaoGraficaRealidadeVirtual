@@ -1,1 +1,1 @@
-# ComputacaoGraficaRealidadeVirtual
+# Computacao Grafica Realidade Virtual
