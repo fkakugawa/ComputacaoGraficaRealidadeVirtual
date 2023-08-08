@@ -1,7 +1,5 @@
 # Computacao Grafica Realidade Virtual
 
+Bem vindo ao repositório de material de aulas
 
-**This site was built using** [GitHub Pages](https://pages.github.com/).
-
-Text that is not a quote
-> Text that is a quote
+**Em breve os materiais estarão disponibilizados**
