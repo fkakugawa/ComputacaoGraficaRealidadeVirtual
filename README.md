@@ -3,5 +3,5 @@ Repositório de material de aulas da UC de Teoria da Computação e Compiladores
 
 <p> </p>
 
-> <h2><Strong>Aula 01 - Definições da Computação Gráfica</h2>
+> <h2><Strong>Aula 01 - Definições da Computação Gráfica
 <p><a href="https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/CGRV_Aula01-Defini%C3%A7oesDaCG.pdf">Material</a></p>
