@@ -5,4 +5,5 @@ Bem vindo ao repositório de material de aulas
 
 ![](https://bloggrijjy.files.wordpress.com/2021/01/graphicspipeline.png?w=512)
 
-**Em breve os materiais serão disponibilizados**
+> Aula 01 - Definições da Computação Gráfica
+<a Material href="https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/CGRV_Aula01-Defini%C3%A7oesDaCG.pdf">Flex Grid</a>
