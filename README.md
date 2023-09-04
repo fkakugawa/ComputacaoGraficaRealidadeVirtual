@@ -1,4 +1,4 @@
-# Computacao Grafica Realidade Virtual
+# Computacao Grafica Realidade Virtual - Paulista Manhã
 Repositório de material de aulas da UC de Teoria da Computação e Compiladores da Anhembi Morumbi 2023-2
 <br> 
 > <h3><Strong>Aula 01 - Definições da Computação Gráfica    
