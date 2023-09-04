@@ -1,7 +1,7 @@
 # Computação Gráfica e Realidade Virtual - Paulista Manhã
-'''
-Prof. Fernando Kakugawa
-Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakugawa@animaeducacao.com.br</a><br>
+```
+## Prof. Fernando Kakugawa
+Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakugawa@animaeducacao.com.br</a>
 '''
 <br>
 > <h3><Strong>Aula 01 - Definições da Computação Gráfica    
