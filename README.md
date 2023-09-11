@@ -14,3 +14,4 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 <p><a href="https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/JOGL_Linux">Arquivos JOGL para Linux</a></p>
 <p><a href="https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/JOGL_MacOS.zip">Arquivos JOGL para MacOS</a></p>
 <p><a href="https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/cenaExemplo">Código exemplo em JOGL</a></p>
+[Exercício sobre primitivas 2D](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/exercicioPrimitiva2D)
