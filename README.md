@@ -16,3 +16,7 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 <p><a href="https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/cenaExemplo">Código exemplo em JOGL</a></p>
   
 [Exercício sobre primitivas 2D](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/exercicioPrimitiva2D)
+
+> <h3><Strong>Aula 03 - Transformações Geométricas
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/CG_Aula03-Transformacoes%20Geometricas.pdf)
