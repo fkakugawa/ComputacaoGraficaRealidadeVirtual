@@ -20,3 +20,7 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 > <h3><Strong>Aula 03 - Transformações Geométricas
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/CG_Aula03-Transformacoes%20Geometricas.pdf)
+
+[Exemplo de código com transformações geométricas](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula03_Exemplo01)
+
+[Exemplo de código para não cumular transformações geométicas](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula03_Exemplo02)
