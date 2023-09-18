@@ -32,3 +32,7 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 > <h3><Strong>Aula 04 - Primitivas 3D
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula04-3D.pdf)
+
+> <h3><Strong>Projeto A3
+
+[Descrição do projeto](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/DescricaoA3.pdf)
