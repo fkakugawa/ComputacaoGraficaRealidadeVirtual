@@ -8,7 +8,8 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula01-Defini%C3%A7oesDaCG.pdf)
 
-<p><a href="https://create.kahoot.it/podium/live-game/9f7a6a68-7dbe-4181-bda7-b87463d04174/1692714987145">Pódium do Kahoot</a></p>
+[Pódium do Kahoot](https://create.kahoot.it/podium/live-game/9f7a6a68-7dbe-4181-bda7-b87463d04174/1692714987145)
+
 > <h3><Strong>Aula 02 - Configurando JOGL e Primitivas Gráficas 2D
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula02-2D.pdf)
@@ -28,6 +29,8 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Exemplo de código com transformações geométricas](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula03_Exemplo01)
 
 [Exemplo de código para não cumular transformações geométicas](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula03_Exemplo02)
+
+[Pódium do Kahoot](https://create.kahoot.it/user-reports/live-game/16fadb83-cebf-43b9-91a9-0bbebeff32a6/9f7a6a68-7dbe-4181-bda7-b87463d04174/1695739015110/podium)
 
 > <h3><Strong>Aula 04 - Primitivas 3D
 
