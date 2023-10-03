@@ -40,3 +40,9 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 > <h3><Strong>Projeto A3
 
 [Descrição do projeto](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/DescricaoA3.pdf)
+
+> <h3><Strong>Aula 05 - Iluminação e Tonalização
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CG_Aula05-Iluminacao.pdf)
+
+[Exemplos de iluminação e tonalização](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula05_Exemplo/src)
