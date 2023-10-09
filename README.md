@@ -49,3 +49,5 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CG_Aula05-Iluminacao.pdf)
 
 [Exemplos de iluminação e tonalização](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula05_Exemplo/src)
+
+[Exercício sobre iluminação](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula_20231009)
