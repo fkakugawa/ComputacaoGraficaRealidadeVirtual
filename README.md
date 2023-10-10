@@ -51,3 +51,9 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Exemplos de iluminação e tonalização](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula05_Exemplo/src)
 
 [Exercício sobre iluminação](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula_20231009)
+
+> <h3><Strong>Aula 06 - Textura em OpenGL
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula06_Textura.pdf)
+
+[Exemplos de textura](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula06_Textura)
