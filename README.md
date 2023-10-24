@@ -57,3 +57,8 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula06_Textura.pdf)
 
 [Exemplos de textura](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/aula06_Textura)
+
+> <h3><Strong>Aula 07 - Processamento de imagens
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula07-ProcessamentoImagem.pdf)
+
