@@ -63,3 +63,10 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula07-ProcessamentoImagem.pdf)
 
 [Exemplo em python sobre organização de imagem](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/ExemploAula07.ipynb)
+
+> <h3><Strong>Aula 08 - Amostragem e quantização de imagens
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula08-Amostragem.pdf)
+
+[Código para manipular níveis de cinza, amostragem e quantização de imagem](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/ExemploAula08.ipynb)
+
