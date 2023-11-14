@@ -70,3 +70,20 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 
 [Código para manipular níveis de cinza, amostragem e quantização de imagem](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/ExemploAula08.ipynb)
 
+> <h3><Strong>Aula 09 - Processamento de Imagem Colorida
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula09-ImagemColorida.pdf)
+
+[Código para manipular RGB](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_RGB.ipynb)
+
+[Código para manipular CMYK](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_CMYK.ipynb)
+
+[Código para manipular HSV](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_HSV.ipynb)
+
+> <h3><Strong>Aula 10 - Equalização de histograma
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula10-Equalizacao.pdf)
+
+[Código para equalizar imagem em níveis de cinza](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_histograma_cinza.ipynb)
+
+[Código para equalizar imagem colorida](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_histograma_RGB.ipynb)
