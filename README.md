@@ -87,3 +87,11 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Código para equalizar imagem em níveis de cinza](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_histograma_cinza.ipynb)
 
 [Código para equalizar imagem colorida](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Teste_histograma_RGB.ipynb)
+
+> <h3><Strong>Aula 11 - Filtros
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula11-Filtros.pdf)
+
+[Código para negativo de imagem](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Negativo.ipynb)
+
+[Código de filtros de vizinhaça](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Filtro_Vizinhanca.ipynb)
