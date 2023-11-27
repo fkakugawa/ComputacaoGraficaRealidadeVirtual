@@ -95,3 +95,15 @@ Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.
 [Código para negativo de imagem](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Negativo.ipynb)
 
 [Código de filtros de vizinhaça](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Filtro_Vizinhanca.ipynb)
+
+> <h3><Strong>Aula 12 - Morfologia
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula12-Morfologia.pdf)
+
+[Código de operações morfológica básica](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Exemplo_Operacao_Basica.ipynb)
+
+[Código realizando dilatação e erosão de imagem](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Exemplo_Dilatacao_Erosao.ipynb)
+
+[Código com filtros morfológico](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Exemplo_Filtro_Morfologico.ipynb)
+
+[Imagens utilizadas nos códigos](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/ExemplosProcessamentoImagem/ImagensMorfologia)
